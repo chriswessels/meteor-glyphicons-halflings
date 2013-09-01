@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src:  url('/packages/glyphicons-halflings/lib/glyphicons-halflings/glyphicons-halflings-regular.eot');
-  src:  url('/packages/glyphicons-halflings/lib/glyphicons-halflings/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
-        url('/packages/glyphicons-halflings/lib/glyphicons-halflings/glyphicons-halflings-regular.woff') format('woff'),
-        url('/packages/glyphicons-halflings/lib/glyphicons-halflings/glyphicons-halflings-regular.ttf') format('truetype'),
-        url('/packages/glyphicons-halflings/lib/glyphicons-halflings/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+  src:  url('/packages/glyphicons-halflings/lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.eot');
+  src:  url('/packages/glyphicons-halflings/lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+        url('/packages/glyphicons-halflings/lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.woff') format('woff'),
+        url('/packages/glyphicons-halflings/lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.ttf') format('truetype'),
+        url('/packages/glyphicons-halflings/lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
