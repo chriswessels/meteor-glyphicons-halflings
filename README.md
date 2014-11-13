@@ -1,6 +1,6 @@
 #meteor-glyphicons-halflings
 
-This simple smart package adds the [Glyphicons Halflings](http://www.glyphicons.com) font-face to [Meteor](http://www.meteor.com) using the [Meteorite](https://github.com/oortcloud/meteorite) package manager for [Meteor](http://www.meteor.com).
+This simple smart package adds the [Glyphicons Halflings](http://www.glyphicons.com) font-face to your [Meteor](http://www.meteor.com) project.
 
 ##Usage
 
