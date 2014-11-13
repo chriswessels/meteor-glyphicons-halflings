@@ -4,12 +4,12 @@ This simple smart package adds the [Glyphicons Halflings](http://www.glyphicons.
 
 ##Usage
 
-Install this package using [Meteorite](https://github.com/oortcloud/meteorite) by issuing the following console commands:
+Install this package by running the following command in your Meteor.js project directory:
 
-    $ cd your_meteor_application_directory
-    $ mrt add glyphicons-halflings
+    $ meteor add chriswessels:glyphicons-halflings
 
 ##Contributions
+
 1. Fork this repository.
 1. Make your changes, ideally documenting your new code with in-context comments.
 1. Submit a pull request with a sane commit message.
