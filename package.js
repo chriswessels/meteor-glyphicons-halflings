@@ -6,9 +6,11 @@ Package.describe({
 });
 
 Package.onUse(function (api){
-  api.addFiles('lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.eot', 'client');
-  api.addFiles('lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.svg', 'client');
-  api.addFiles('lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.ttf', 'client');
-  api.addFiles('lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.woff', 'client');
+  api.addAssets([
+    'lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.eot',
+    'lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.svg',
+    'lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.ttf',
+    'lib/glyphicons-halflings/fonts/glyphicons-halflings-regular.woff'
+  ], 'client');
   api.addFiles('lib/glyphicons-halflings/css/glyphicons.css', 'client');
 });
