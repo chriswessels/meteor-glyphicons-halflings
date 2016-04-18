@@ -1,6 +1,6 @@
 Package.describe({
   name: 'chriswessels:glyphicons-halflings',
-  version: '2.0.0',
+  version: '2.1.0',
   summary: "This simple smart package adds the Glyphicon Halflings font-face to Meteor.",
   git: 'https://github.com/chriswessels/meteor-glyphicons-halflings.git'
 });
